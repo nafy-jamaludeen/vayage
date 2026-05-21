@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from "react";
-import { TESTIMONIALS } from "../data";
+import { ... } from "./data";
 import { Quote, ChevronLeft, ChevronRight, Star } from "lucide-react";
 
 export default function TestimonialCarousel() {
