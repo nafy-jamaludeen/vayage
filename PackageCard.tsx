@@ -1,4 +1,4 @@
-import { TravelPackage } from "../types";
+import { TravelPackage } from "./types";
 import { Star, MapPin, Clock, ArrowRight, CheckCircle2 } from "lucide-react";
 
 interface PackageCardProps {
