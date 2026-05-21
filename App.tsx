@@ -1,11 +1,10 @@
-import React, { useState, useEffect } from "react";
-import Navbar from "./components/Navbar";
-import WhatsAppButton from "./components/WhatsAppButton";
-import AnimatedSection from "./components/AnimatedSection";
-import StatCounter from "./components/StatCounter";
-import PackageCard from "./components/PackageCard";
-import TestimonialCarousel from "./components/TestimonialCarousel";
-import ContactForm from "./components/ContactForm";
+import Navbar from "./Navbar";
+import WhatsAppButton from "./WhatsAppButton";
+import AnimatedSection from "./AnimatedSection";
+import StatCounter from "./StatCounter";
+import PackageCard from "./PackageCard";
+import TestimonialCarousel from "./TestimonialCarousel";
+import ContactForm from "./ContactForm";
 
 import { TRAVEL_PACKAGES, GALLERY_ITEMS, STATS } from "./data";
 import {
